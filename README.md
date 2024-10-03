@@ -4,6 +4,12 @@
 
 The objective of this task is to create a web page with multiple routes using `react-router-dom`. The design of the page should be inspired by the blog navigation found at [GUVI Blog](https://www.guvi.in/blog/).
 
+## Preview
+
+[![Landing Page Preview](https://github.com/gokulselvam2911/React-Router-Task/blob/main/src/assets/React%20Router%20dom.png)](https://gkl-react-router-dom.netlify.app/)
+
+**[View Live Preview](https://gkl-react-router-dom.netlify.app/)**
+
 ### Key Features
 - The page will feature a navigation bar similar to the one found in the middle of the page on the GUVI blog.
 - The navigation bar should include the following categories:
@@ -24,21 +30,13 @@ The objective of this task is to create a web page with multiple routes using `r
 - Refer to the official [React Router documentation](https://reactrouter.com/en/main) for guidance on how to set up routes and navigation.
 - Link to the reference webpage: [GUVI Blog](https://www.guvi.in/blog/).
 
-### Screenshot
+## Technologies
+- [React](https://reactjs.org/) - JavaScript library for building user interfaces
+- [Bootstrap](https://getbootstrap.com/) - CSS framework for responsive design
+- [Vite](https://vitejs.dev/) - Build tool that focuses on speed and performance
 
-_A screenshot of the navigation menu from the GUVI blog to be included here for reference._
+## Deployment
 
-![Navigation Screenshot](./src\assets\React Router dom.png)
+The application is deployed on Netlify. You can view the live version of the application by visiting the following link:
 
-## Project Setup
-
-Follow these steps to set up and run the project:
-
-### Prerequisites
-- [Node.js](https://nodejs.org/en/) installed on your machine.
-- Basic knowledge of React and React Router.
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/react-router-task.git
+[Live Application](https://gkl-react-router-dom.netlify.app/)
